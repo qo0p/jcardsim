@@ -17,7 +17,6 @@ package com.licel.jcardsim.crypto;
 
 import javacard.security.KeyBuilder;
 import javacard.security.KeyPair;
-import javacard.security.RandomData;
 import javacard.security.RSAPublicKey;
 import javacard.security.CryptoException;
 import javacardx.crypto.Cipher;

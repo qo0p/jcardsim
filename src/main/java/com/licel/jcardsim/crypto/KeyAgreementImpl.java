@@ -15,7 +15,6 @@
  */
 package com.licel.jcardsim.crypto;
 
-import java.math.BigInteger;
 import javacard.framework.Util;
 import javacard.security.CryptoException;
 import javacard.security.KeyAgreement;

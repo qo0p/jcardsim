@@ -19,7 +19,6 @@ import javacard.security.Checksum;
 import junit.framework.TestCase;
 import org.bouncycastle.util.Arrays;
 import org.bouncycastle.util.encoders.Hex;
-import java.util.zip.CRC32;
 
 /**
  * Test for <code>CRC32</code>

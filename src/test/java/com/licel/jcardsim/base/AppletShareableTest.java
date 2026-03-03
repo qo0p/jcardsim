@@ -21,7 +21,6 @@ import com.licel.jcardsim.utils.AIDUtil;
 
 import javacard.framework.AID;
 import javacard.framework.JCSystem;
-import junit.framework.Test;
 import junit.framework.TestCase;
 
 public class AppletShareableTest extends TestCase{

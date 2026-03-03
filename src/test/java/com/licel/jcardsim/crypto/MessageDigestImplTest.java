@@ -15,16 +15,11 @@
  */
 package com.licel.jcardsim.crypto;
 
-import java.nio.ByteBuffer;
 import java.security.SecureRandom;
 
-import com.licel.jcardsim.utils.ByteUtil;
-import javacard.framework.Util;
 import javacard.security.InitializedMessageDigest;
 import javacard.security.MessageDigest;
 import junit.framework.TestCase;
-import org.bouncycastle.crypto.Digest;
-import org.bouncycastle.crypto.digests.SHA3Digest;
 import org.bouncycastle.util.Arrays;
 import org.bouncycastle.util.encoders.Hex;
 

@@ -15,7 +15,6 @@
  */
 package com.licel.jcardsim.smartcardio;
 
-import com.licel.jcardsim.base.SimulatorSystem;
 import java.io.UnsupportedEncodingException;
 import java.security.NoSuchAlgorithmException;
 import java.security.Security;

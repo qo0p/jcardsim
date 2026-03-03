@@ -16,13 +16,10 @@
 package com.licel.jcardsim.crypto;
 
 import javacard.security.MessageDigest;
-import javacard.security.Signature;
 import junit.framework.TestCase;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
 public class MessageDigestProxyTest extends TestCase {
     public MessageDigestProxyTest(String testName) {

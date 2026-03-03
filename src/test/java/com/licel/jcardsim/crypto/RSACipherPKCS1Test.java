@@ -22,7 +22,6 @@ import javacard.security.RSAPrivateKey;
 import javacard.security.RSAPublicKey;
 import javacardx.crypto.Cipher;
 import junit.framework.TestCase;
-import org.bouncycastle.util.Arrays;
 
 /**
  * Test for <code>AsymmetricCipherImpl</code> and <code>ALG_RSA_PKCS1</code> algorithm implementation.

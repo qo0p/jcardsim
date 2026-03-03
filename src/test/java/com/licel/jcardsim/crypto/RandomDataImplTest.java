@@ -19,7 +19,6 @@ import javacard.framework.Util;
 import javacard.security.RandomData;
 import junit.framework.TestCase;
 
-import java.util.Arrays;
 
 /**
  * Test for <code>RandomDataImpl</code>
