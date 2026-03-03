@@ -4,7 +4,7 @@
   <groupId>com.licel</groupId>
   <artifactId>jcardsim</artifactId>
   <name>Java Card Runime Environment Simulator</name>
-  <version>3.0.5.1-SNAPSHOT</version>
+  <version>3.0.5.2-SNAPSHOT</version>
   <description>jCardSim is open-source library contains implementation of Java Card API</description>
   <url>http://maven.apache.org</url>
   <developers>
